@@ -1,4 +1,4 @@
-#  Temperature Prediction
+#   Central Kerala Temperature Prediction
 
 **Temperature Prediction using Machine Learning Approachest** </br>
 Anjali T, Chandini K, Anoop K, Lajish VL</br>
