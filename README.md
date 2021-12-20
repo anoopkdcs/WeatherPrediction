@@ -12,7 +12,7 @@ University of Calicut, India
 **Abstract**: Weather prediction is one of the most important research areas due to its applicability in real-world problems like meteorology, agricultural studies, etc. We propose a method for temperature prediction using three machine learning models - Multiple Linear Regression (MLR), Artificial Neural Network (ANN) and Support Vector Machine (SVM), through a comparative analysis using the weather data collected from Central Kerala during the period 2007 to 2015. The experimental results are evaluated using Mean Error (ME), Mean Absolute Error (MAE), Root Mean Square Error (RMSE) and Correlation Coefficients (CC). The error metrics and the CC shows that MLR is a more precise model for temperature prediction than ANN and SVM.
 
 For other inquiries, please contact: </br>
-Anjali T :email: anjalithottathil86@gmail.com  :earth_asia: [website](#)</br>
+Anjali T :email: anjalithottathil86@gmail.com  :earth_asia: [website](https://scholar.google.com/citations?user=lALfPBgAAAAJ&hl=en)</br>
 Anoop K :email: anoopk_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~anoop/)</br>
 Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/index.php/dr-lajish-v-l)
 
