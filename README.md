@@ -28,5 +28,8 @@ Anjali T :email: anjalithottathil86@gmail.com </br>
 Anoop K :email: anoopk_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~anoop/)</br>
 Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/index.php/dr-lajish-v-l)
 
+***Acknowledgement*** </br>
+This research is supported by Agricultural Research Station, Anakkayam and College of Horticulture, Kerala Agricultural University, Vellanikkara. We thank Dr. B. Ajith Kumar, Assistant Professor and Head, Department of Agricultural Meteorology, College of Horticulture, Kerala Agricultural University, Vellanikkara, Thrissur and Dr. Abdul Hakkim V M, Professor (Soil and Water Engineering), College of Agriculture, Padannakkad, Kasargode for their assistance in data collection.
+
 
 
