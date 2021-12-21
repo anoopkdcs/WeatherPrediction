@@ -20,7 +20,7 @@ humidity	pressure	windspeed	winddirection	temparature </br>
 Anjali T, Chandini K, Anoop K, Lajish VL</br>
 Computational Intelligence and Data Analytics (CIDA Lab) </br>
 Department of Computer Science </br>
-University of Calicut, India
+University of Calicut, India </br>
 :memo: Paper : https://ieeexplore.ieee.org/abstract/document/8993316 </br>
 
 For other inquiries, please contact: </br>
