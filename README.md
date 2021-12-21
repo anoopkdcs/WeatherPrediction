@@ -1,4 +1,4 @@
-# Temperature Prediction
+# Temperature Prediction Dataset
 
 **Temperature Prediction using Machine Learning Approaches** </br>
 Anjali T, Chandini K, Anoop K, Lajish VL</br>
