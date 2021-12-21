@@ -23,7 +23,7 @@ Department of Computer Science </br>
 University of Calicut, India </br>
 :memo: Paper : https://ieeexplore.ieee.org/abstract/document/8993316 </br>
 
-**** For other inquiries, please contact:**** </br>
+***For other inquiries, please contact:*** </br>
 Anjali T :email: anjalithottathil86@gmail.com  :earth_asia: [website](https://scholar.google.com/citations?user=lALfPBgAAAAJ&hl=en)</br>
 Anoop K :email: anoopk_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~anoop/)</br>
 Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/index.php/dr-lajish-v-l)
