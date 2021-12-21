@@ -2,8 +2,8 @@
 
 
 
-#COresponding Work Published
-**Temperature Prediction using Machine Learning Approaches** </br>
+# Coresponding Work Published
+***Temperature Prediction using Machine Learning Approaches*** </br>
 Anjali T, Chandini K, Anoop K, Lajish VL</br>
 Computational Intelligence and Data Analytics (CIDA Lab) </br>
 Department of Computer Science </br>
