@@ -1,4 +1,4 @@
-# Temperature Prediction Dataset
+# Weather Prediction Dataset
 The weather data is procured from 3 different districts in Kerala - Malappuram, Calicut, and Thrissur. Since these districts are situated in the middle region of Kerala, the dataset can efficiently represent the weather conditions and variations of Central Kerala. The samples used for this study are collected from different sources. Daily values of pressure, humidity, wind speed, wind direction and temperature during 2009-2012 are taken from the Agricultural Research Station, Mannuthy, Thrissur. Monthly values of the dry bulb, wet bulb, number of rainy days, rainfall, humidity, and maximum temperature during 2009-2014 are collected from Agricultural Research Station, Anakkayam. Daily hourly data, including humidity, pressure, wind speed and wind direction during 2010 -2015 are collected from Calicut International Airport, Malappuram. </br>
 humidity	pressure	windspeed	winddirection	temparature </br>
 :earth_asia: Dataset Link: https://dcs.uoc.ac.in/cida/resources/wd.html
