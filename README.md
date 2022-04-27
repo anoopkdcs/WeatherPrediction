@@ -15,9 +15,9 @@ We thank Dr. B. Ajith Kumar, Assistant Professor and Head, Department of Agricul
 
 
 ***For inquiries, please contact:*** </br>
-Anjali T :email: anjalithottathil86@gmail.com </br>
-Anoop K :email: anoopk_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~anoop/)</br>
-Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/index.php/dr-lajish-v-l)
+Anoop K :email: anoopk_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~anoop/) </br>
+Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/index.php/dr-lajish-v-l) </br>
+Anjali T :email: anjalithottathil86@gmail.com 
 
 
 ## Citation
