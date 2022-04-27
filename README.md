@@ -1,5 +1,5 @@
 # Temperature Prediction using Machine Learning Approaches
-Anjali T; Chandini K; Anoop K; Lajish V L </br>
+Anjali T, Chandini K, Anoop K, Lajish V L </br>
 Computational Intelligence and Data Analytics (CIDA Lab) </br>
 Department of Computer Science </br>
 University of Calicut, India </br>
