@@ -35,5 +35,5 @@ Anjali T :email: anjalithottathil86@gmail.com
 ```
 
 ### Related works
-[1] Anjali T, Lajish V L, Anoop K, Manjary P Gangan, "Anomalous Weather Prediction in Kerala using Machine Learning Techniques". 32<sup>nd</sup>nd Kerala Science Congress, Abstract publisher: Kerala State Council for Science, Technology and Environment, 2020, pp. 170, ISBN: 978-81-942768-0-7. ([Abstract](https://ksc.kerala.gov.in/wp-content/uploads/2017/07/32KSC-Abstracts.pdf)) </br>
+[1] Anjali T, Lajish V L, Anoop K, Manjary P Gangan, "Anomalous Weather Prediction in Kerala using Machine Learning Techniques". 32<sup>nd</sup> Kerala Science Congress, Abstract publisher: Kerala State Council for Science, Technology and Environment, 2020, pp. 170, ISBN: 978-81-942768-0-7. ([Abstract](https://ksc.kerala.gov.in/wp-content/uploads/2017/07/32KSC-Abstracts.pdf)) </br>
 
